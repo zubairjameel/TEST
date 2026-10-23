@@ -1,0 +1,20 @@
+{
+  "name": "StudyZen – Student Life Toolkit",
+  "short_name": "StudyZen",
+  "description": "Your all-in-one student productivity toolkit: tasks, notes, and Pomodoro timer.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f0eeff",
+  "theme_color": "#7c5cbf",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icons/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "productivity"],
+  "screenshots": []
+}
